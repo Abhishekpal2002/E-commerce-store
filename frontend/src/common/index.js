@@ -1,4 +1,5 @@
-const backendDomin = "http://localhost:8000"
+// const backendDomin = "http://localhost:8000"
+const backendDomin="https://e-commerce-store-8lav.onrender.com"
 
 const SummaryApi = {
     signUP : {
