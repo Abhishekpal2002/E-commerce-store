@@ -1,5 +1,5 @@
-// const backendDomin = "http://localhost:8000"
-const backendDomin="https://e-commerce-store-tg5f.onrender.com"
+const backendDomin = "http://localhost:8000"
+// const backendDomin="https://e-commerce-store-tg5f.onrender.com"
 
 const SummaryApi = {
     signUP : {
